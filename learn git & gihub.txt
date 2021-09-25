@@ -48,3 +48,6 @@
 16.	.gitignore
 	// This file is used to ignore the files which we dont want commit or put into staging
 
+17.	git clone REPO-URL
+	// This command is used to clone a repo available on github or any git based platform
+
