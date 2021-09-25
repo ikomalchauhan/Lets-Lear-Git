@@ -1,0 +1,22 @@
+######	Learn GIT & GITHUB	######
+
+1.	git --version
+	// This command is used for checking the git version
+	
+2. 	git update-git-for-windows
+	// This command is used for checking the git update
+	
+3.	git config --global user.name "USERNAME"
+	// This command is used for updating the username
+	
+4.	git config --global user.email "EMAIL-ADDRESS"
+	// This command is used for updating the email
+	
+5.	git config --global --edit
+	// This command is used for updating the email and the username
+	
+6.	mkdir DIRECTORY-NAME
+	// This command is used for creting a new directory
+	
+7.	cd DIRECTORY-NAME
+	// This command is used to go inside the directory
