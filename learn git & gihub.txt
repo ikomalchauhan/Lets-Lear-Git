@@ -51,3 +51,5 @@
 17.	git clone REPO-URL
 	// This command is used to clone a repo available on github or any git based platform
 
+18.	git push
+	// This command is used to push the changes from local git to the remote git
