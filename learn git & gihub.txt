@@ -33,3 +33,18 @@
 11. git commit -m "MESSAGE YOU WANT TO SPECIFIED"
 	// This command is used to commit the files available in staging area
 
+12. git branch
+	// This command is used to check all the available branches in the repo
+
+13. git branch BRANCH-NAME
+	// This command is used to crate a new branch in same repository
+
+14.	git checkout BRANCH-NAME
+	// This command is used to checkout in the desired branch.
+	
+15. git merge BRANCH-NAME
+	//This commit is used to merge the BRANCH_NAME banch into the existing branch
+
+16.	.gitignore
+	// This file is used to ignore the files which we dont want commit or put into staging
+
