@@ -20,3 +20,16 @@
 	
 7.	cd DIRECTORY-NAME
 	// This command is used to go inside the directory
+	
+8.	git status
+	// This command is used to check the status for the tracked and untracked files in git
+	
+9.	git add FULL-FILE-NAME
+	// This command is used to add a specific file in staging area before commit
+	
+10.	git add -all or git add .
+	// This command is used to add all the untracked files in staging area
+
+11. git commit -m "MESSAGE YOU WANT TO SPECIFIED"
+	// This command is used to commit the files available in staging area
+
